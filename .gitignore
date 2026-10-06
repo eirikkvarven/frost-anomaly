@@ -1,0 +1,8 @@
+# Frost client ID - never commit
+client_id.txt
+.env
+
+.venv/
+__pycache__/
+temperature.png
+.DS_Store
